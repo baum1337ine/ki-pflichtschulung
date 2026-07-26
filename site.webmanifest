@@ -1,0 +1,14 @@
+{
+  "name": "KI-Pflichtschulung",
+  "short_name": "KI-Schulung",
+  "lang": "de",
+  "start_url": "/",
+  "display": "browser",
+  "theme_color": "#1E2761",
+  "background_color": "#1E2761",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
