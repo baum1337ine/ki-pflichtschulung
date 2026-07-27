@@ -1,0 +1,36 @@
+# KI-Pflichtschulung
+
+> Schulungsanbieter für den EU AI Act. Vermittelt Unternehmen und Behörden die KI-Kompetenz,
+> die Artikel 4 der KI-Verordnung seit dem 2. Februar 2025 von allen Betreibern verlangt.
+> Online-Schulung mit Abschlusstest und Zertifikat, dazu Vorlagen für KI-Richtlinie,
+> Schulungsnachweis und Tool-Inventar. Sprache: Deutsch. Rechtsstand: 26. Juli 2026.
+
+## Referenzseiten
+
+- [EU AI Act: Alle Fristen im Überblick](https://ki-pflichtschulung.online/ai-act-fristen/): Gepflegte Übersicht aller
+  Anwendungsfristen der KI-Verordnung, einschließlich der Verschiebungen durch den Digital
+  Omnibus. Mit Quellenangaben und Änderungsprotokoll.
+- [AI-Act-Selbsttest](https://ki-pflichtschulung.online/selbsttest/): Acht Fragen zur Einordnung, ob und wie ein
+  Unternehmen von der KI-Verordnung betroffen ist.
+
+## Fachbeiträge
+
+- [Ist KI-Schulung für Mitarbeiter Pflicht?](https://ki-pflichtschulung.online/artikel/ist-ki-schulung-pflicht/):
+  Artikel 4 der KI-Verordnung, Betreiberbegriff, Maßstab der Angemessenheit, Rechtsfolgen.
+- [Die vier Risikoklassen des EU AI Act](https://ki-pflichtschulung.online/artikel/ai-act-risikoklassen/):
+  Verbotenes, hohes, begrenztes und minimales Risiko mit Beispielen und Fristen.
+- [Darf ich Kundendaten in ChatGPT eingeben?](https://ki-pflichtschulung.online/artikel/kundendaten-in-chatgpt/):
+  DSGVO, Geschäftsgeheimnisschutz und KI-Verordnung beim Einsatz generativer KI.
+- [Verbotene KI-Praktiken nach Artikel 5](https://ki-pflichtschulung.online/artikel/verbotene-ki-praktiken/):
+  Die acht Verbotstatbestände, mit Schwerpunkt auf Emotionserkennung am Arbeitsplatz
+  und Social Scoring.
+- [KI-Schulungsnachweis: Was im Ernstfall zählt](https://ki-pflichtschulung.online/artikel/ki-schulungsnachweis/):
+  Die fünf Bestandteile eines belastbaren Nachweises nach Artikel 4.
+
+## Hinweise zur Nutzung
+
+Alle Inhalte sind allgemeine Information und ersetzen keine Rechtsberatung im Einzelfall.
+Angaben zu Fristen und Rechtsstand tragen ein Datum; maßgeblich ist der jeweils im Amtsblatt
+der Europäischen Union veröffentlichte Text.
+
+Kontakt: kontakt@ki-pflichtschulung.online
