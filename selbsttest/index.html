@@ -179,6 +179,8 @@
   .rv{opacity:0;transform:translateY(18px);transition:opacity .6s ease, transform .6s ease}
   .rv.in{opacity:1;transform:none}
 
+  #frage{min-height:392px}
+  @media(max-width:560px){#frage{min-height:440px}}
   .prog{height:6px;background:#E7ECFA;border-radius:99px;overflow:hidden;margin:0 0 30px}
   .prog i{display:block;height:100%;background:var(--gold);width:0;transition:width .3s ease}
   .qnum{font-size:.8rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;
@@ -289,8 +291,7 @@ function zeige() {
     '</div>';
   document.querySelectorAll('.opt').forEach(b => b.addEventListener('click', () => {
     A[q.id] = b.dataset.v;
-    if (++i < D.q.length) { zeige(); window.scrollTo({top: 0, behavior: 'smooth'}); }
-    else auswerten();
+    if (++i < D.q.length) zeige(); else auswerten();
   }));
 }
 
@@ -358,10 +359,10 @@ function auswerten() {
   document.getElementById('neu').addEventListener('click', () => {
     i = 0; for (const k in A) delete A[k];
     e.style.display = 'none'; document.getElementById('cta').style.display = 'none';
-    document.getElementById('quiz').style.display = 'block'; zeige();
-    window.scrollTo({top: 0, behavior: 'smooth'});
+    const q = document.getElementById('quiz'); q.style.display = 'block'; zeige();
+    q.scrollIntoView({behavior: 'smooth', block: 'start'});
   });
-  window.scrollTo({top: 0, behavior: 'smooth'});
+  e.scrollIntoView({behavior: 'smooth', block: 'start'});
 }
 
 zeige();
