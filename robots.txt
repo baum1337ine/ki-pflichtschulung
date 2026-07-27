@@ -3,10 +3,9 @@
 User-agent: *
 Allow: /
 
-# KI-Suchbots ausdrücklich erlaubt.
-# Diese Bots holen die Inhalte, die in ChatGPT, Claude, Perplexity und
-# Google AI als Quelle zitiert werden. Wer sie blockt, taucht dort nicht auf –
-# auch bei guten Google-Platzierungen nicht.
+# KI-Suchbots ausdrücklich erlaubt. Diese Bots holen die Inhalte, die in ChatGPT,
+# Claude, Perplexity und Google AI als Quelle zitiert werden. Wer sie blockt,
+# taucht dort nicht auf – auch bei guten Google-Platzierungen nicht.
 
 User-agent: OAI-SearchBot
 Allow: /
